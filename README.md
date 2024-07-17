@@ -2,5 +2,4 @@
 i build dashboard in Excel for coffee shop
 
 
-I created a project that takes a data set of coffee shop order
-I organized the information, then built a pivot table to collect the data and finally presented the important data on the dashboard
+For my dashboard project tailored to a coffee shop, I developed a comprehensive tool that allows easy navigation through various data insights. Users can efficiently search by different time ranges, explore sales data for different types of coffee, and track overall sales trends across periods. The dashboard also,enabling the coffee shop management to make informed decisions and strategize effectively based on actionable data
